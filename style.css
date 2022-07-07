@@ -1,0 +1,78 @@
+body{
+    background-repeat: no-repeat;
+    
+}
+h1{
+color: crimson;
+text-align: center;
+    
+}
+h2{
+    color: rgb(240, 17, 92);
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+.p-color{
+    color: rgb(21, 236, 39);
+}
+.button1{
+    color: white;
+    position: center;
+    text-align: center;
+    bottom: 100%;
+    height: 50px;
+
+}
+.background-image{
+    background-image: url("./images/donation13.jpg");
+    background-repeat:no-repeat;
+    background-size: cover;
+    height: 400px;
+    
+}
+.btn-group{
+    text-align: center;
+}
+.donate-naw{
+    text-align: center;
+}
+.area-of-item{
+   width: 40%;
+   margin-left: 5%;
+   margin-right: 5%;
+   padding: 20px;
+   box-shadow: 10px 10px 40px gray;
+
+}
+.lived-depend{
+    width: 60%;
+    margin-left: 5px;
+    margin-right: 5px;
+    box-shadow: 10px 10px 40px grey;
+    background-color: aquamarine;
+}
+.image-name{
+    margin-right: 50%;
+    display: block;
+}
+.display{
+    display: block;
+    padding: 20px;
+}
+.lived-on{
+    width: 60%;
+    margin-left: 5px;
+    margin-right: 5px;
+    box-shadow: 10px 10px 40px gray;
+    background-color: bisque;
+}
+#email-to{
+    width: 200px;
+}
+#subscrive-id{
+    background-color: rgb(228, 32, 18);
+}
+
+
